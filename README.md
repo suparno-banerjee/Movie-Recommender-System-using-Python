@@ -2,5 +2,7 @@
 Building a movie recommender system based on Kaggle dataset and applying various Data Mining techniques and Machine Learning algorithms to recommend movies
 
 Research Report:- contains brief research done on each type of filtering technique
+
 Evaluation Report:- contains conclusion derived from each filtering technique
+
 Data set Link:- https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv  
